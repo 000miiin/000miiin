@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+000miiin's+Repository+%F0%9F%8C%88)
+![header](https://via.placeholder.com/1200x300.png?text=Welcome+to+000miiin's+Repository+%F0%9F%8C%88)
 
 # 🚀 Welcome to **000miiin**'s Repository
 
