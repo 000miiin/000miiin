@@ -50,15 +50,7 @@ Development of downstream-task-aware fusion methods that improve performance in 
 
 ---
 
-## Tech Stack
 
-Python  
-PyTorch  
-OpenCV  
-CUDA  
-Linux  
-
----
 
 ## GitHub Stats
 
