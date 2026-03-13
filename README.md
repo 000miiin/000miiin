@@ -1,97 +1,73 @@
-## Hi there 👋
+<h1 align="center">Youngmin Kim</h1>
 
-![header](https://via.placeholder.com/1200x300.png?text=Welcome+to+000miiin's+Github+%F0%9F%8C%88)
+<p align="center">
+AI Researcher | Computer Vision | Image Restoration | Multimodal Fusion
+</p>
 
-# 🚀 Welcome to **000miiin**'s Repository
-
-> "Where creativity meets code."
-
-## 🌟 **About This Repository**
-
-Welcome to my corner of GitHub! This repository is dedicated to hosting innovative projects, ideas, and experiments. Whether you're here to collaborate, learn, or just browse, there's something for everyone.
-
-### ✨ **Features**
-- 🚀 Cutting-edge solutions for modern problems
-- 💡 Easy-to-follow examples and documentation
-- 🎨 Aesthetic and user-friendly design
+<p align="center">
+Ph.D. Candidate in Artificial Intelligence
+</p>
 
 ---
 
-## 📂 **Table of Contents**
-1. [Getting Started](#-getting-started)
-2. [Installation](#-installation)
-3. [Usage](#-usage)
-4. [Contributing](#-contributing)
-5. [License](#-license)
+## About Me
+
+I am an AI researcher working in computer vision and image restoration, focusing on recovering degraded visual signals and improving perception systems under challenging conditions.
+
+My research explores spatial–frequency representations and multimodal learning to improve visual perception in real-world sensing systems.
 
 ---
 
-## 🛠️ **Getting Started**
+## Research Interests
 
-Follow these instructions to set up and run the project on your local machine.
-
-### Prerequisites
-Make sure you have the following installed:
-- [Node.js](https://nodejs.org/)
-- [Python 3.9+](https://www.python.org/)
-
-### Clone the Repository
-```bash
-$ git clone https://github.com/000miiin/your-repo-name.git
-$ cd your-repo-name
-```
+- Image Restoration  
+- Under-Display Camera Imaging  
+- Infrared–Visible Image Fusion  
+- Frequency-domain Deep Learning  
+- Multimodal Computer Vision  
 
 ---
 
-## ⚙️ **Installation**
+## Selected Work
 
-Follow the steps below to install dependencies:
+**UCMNet**  
+Uncertainty-Aware Context Memory Network for Under-Display Camera Image Restoration  
+CVPR 2026
 
-```bash
-# Install Node.js dependencies
-$ npm install
-
-# Install Python dependencies
-$ pip install -r requirements.txt
-```
+Research on deep neural networks for restoring images captured through under-display cameras, focusing on uncertainty-aware reconstruction and frequency-aware feature learning.
 
 ---
 
-## 🚀 **Usage**
+## Projects
 
-Run the following commands to start the project:
+**Under-Display Camera Restoration**
 
-```bash
-# Start the development server
-$ npm start
+Deep learning models for recovering images captured through display layers. Research topics include uncertainty modeling, frequency-aware reconstruction, and hybrid spatial-frequency architectures.
 
-# Or run the Python script
-$ python main.py
-```
+**Infrared–Visible Image Fusion**
+
+Development of downstream-task-aware fusion methods that improve performance in vision tasks such as detection and segmentation.
 
 ---
 
-## 🤝 **Contributing**
+## Tech Stack
 
-We love your contributions! To get started:
-1. Fork the repo
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
----
-
-## 📜 **License**
-
-This repository is licensed under the MIT License. See the LICENSE file for details.
+Python  
+PyTorch  
+OpenCV  
+CUDA  
+Linux  
 
 ---
 
-### 🧑‍💻 **Connect with Me**
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/000miiin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+## GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=000miiin&show_icons=true)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=000miiin&layout=compact)
 
 ---
 
-![Footer](https://via.placeholder.com/1200x100.png?text=Thanks+for+Visiting!+%F0%9F%91%8B)
+## Contact
+
+GitHub: https://github.com/000miiin
