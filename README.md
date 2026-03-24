@@ -31,8 +31,7 @@ My research explores spatial–frequency representations and multimodal learning
 ## Selected Work
 
 **UCMNet**  
-Uncertainty-Aware Context Memory Network for Under-Display Camera Image Restoration  
-CVPR 2026
+Uncertainty-Aware Context Memory Network for Under-Display Camera Image Restoration(CVPR 2026)
 
 Research on deep neural networks for restoring images captured through under-display cameras, focusing on uncertainty-aware reconstruction and frequency-aware feature learning.
 
