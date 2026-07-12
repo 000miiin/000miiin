@@ -53,9 +53,9 @@ Development of downstream-task-aware fusion methods that improve performance in 
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=000miiin&show_icons=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=000miiin&show_icons=true)](https://github.com/000miiin)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=000miiin&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=000miiin&layout=compact)](https://github.com/000miiin?tab=repositories)
 
 ---
 
